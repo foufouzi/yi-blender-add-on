@@ -2,13 +2,13 @@
 
 A Blender extension for saving and reusing pose-bone selection sets per armature rig.
 
-**Version:** 2.7.2  
-**Requirements:** Blender 4.2 or newer  
-**License:** GPL-3.0-or-later
+- Version: 2.7.2
+- Requirements: Blender 4.2 or newer
+- License: GPL-3.0-or-later
 
 ## Installation
 
-1. [Download the 2.7.2 extension ZIP](../Yi_anim_selection_set-2.7.2.zip).
+1. Download the [Yi Animation Selection Sets 2.7.2 extension ZIP](./01-Yi_anim_selection_set-2.7.2.zip).
 2. In Blender, open **Edit → Preferences → Get Extensions**.
 3. Open the menu in the upper-right, choose **Install from Disk**, and select the downloaded ZIP.
 4. Enable **Yi_anim_selection_set** if Blender does not enable it automatically.
